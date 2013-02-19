@@ -7,7 +7,7 @@ from consulta.utils import GenString
     Tiago de Souza Moraes
     19.02.2013
 '''
-class Opcoes(models.Model):
+class Opcao(models.Model):
     data_criacao = models.DateTimeField( auto_now_add=True )
     descricao = models.CharField( (u'Opcao'), max_length=50, null=False, blank=False )
     votos = models.PositiveIntegerField( (u'Votos recebidos'), default=0 )
@@ -32,7 +32,7 @@ class Enquete(models.Model):
     url = models.CharField( (u'URL'), max_length=50, null=False, blank=False )
 
     # fk
-    opcoes = models.ManyToManyField(Opcoes, null=True, blank=True)
+    opcoes = models.ManyToManyField(Opcao, null=True, blank=True)
 
     def save(self, *args, **kwargs):
         # gerar URL unica para cada enquete nova
