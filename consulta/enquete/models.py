@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from django.db import models
-from consulta.utils import GenString
+from django.template.defaultfilters import slugify
 
 '''
     classe opcaos da enquete
@@ -29,15 +29,14 @@ class Enquete(models.Model):
     pergunta = models.CharField( (u'Pergunta'), max_length=50, null=False, blank=False )
     descricao = models.TextField( (u'Descrição'), null=True, blank=True )
     ativo = models.BooleanField( (u'Ativo?'), default=True )
-    url = models.CharField( (u'URL'), max_length=50, null=False, blank=False )
+    url = models.CharField( (u'URL'), max_length=50, null=True, blank=True)
 
     # fk
     opcoes = models.ManyToManyField(Opcao, null=True, blank=True)
 
     def save(self, *args, **kwargs):
-        # gerar URL unica para cada enquete nova
-        if not self.id :
-            self.url = GenString(32)
+        self.url = slugify(self.pergunta)
+        super(Enquete, self).save(*args, **kwargs)
 
     class Meta:
         verbose_name = (u'Enquete')
