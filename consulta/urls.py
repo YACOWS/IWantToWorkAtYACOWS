@@ -27,6 +27,6 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
     url(r'^salvar/(?P<url>.*)/$', 'consulta.enquete.views.salvar'),  # salvar opcao escolhida
-    url(r'^$', list_detail.object_list, enquete_todas )
-
+    url(r'^$', list_detail.object_list, enquete_todas ),
+    url(r'^enquete-json/$', 'consulta.enquete.views.enquete_json'),  # returna formato json
 )
