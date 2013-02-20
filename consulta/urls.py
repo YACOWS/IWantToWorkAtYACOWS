@@ -26,12 +26,7 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^save/(?P<obj>\d+)/$', 'consulta.enquete.views.salvar'),  # salvar opcao escolhida
-
-    #url('^$', direct_to_template, { 
-                                    #'template': 'lista.html' 
-                                    #})
-
-    (r'^$', list_detail.object_list, enquete_todas )
+    url(r'^salvar/(?P<url>.*)/$', 'consulta.enquete.views.salvar'),  # salvar opcao escolhida
+    url(r'^$', list_detail.object_list, enquete_todas )
 
 )

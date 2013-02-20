@@ -5,7 +5,24 @@
 
     <body>
 
-        <h2> Enquete </h2>
+        {% if msg %}
+            <h1> >>> {{ msg }} </h1>
+        {% endif %}
+
+        <h2>Pergunta : {{ obj.pergunta }}</h2>
+
+        <h3> Op&ccedil;&otilde;es </h3>
+
+        <form action='/salvar/{{ obj.url }}/' method='post'>
+
+                {% for o in obj.opcoes.all %}
+                    <p>
+                        <input type='radio' name='opcao' value='{{ o.id }}'> {{ o }} | Votos ({{ o.votos }})
+                    </p>
+                {% endfor %}
+
+            <input type='submit' value='Enviar'>
+        </form>
 
 
     </body>

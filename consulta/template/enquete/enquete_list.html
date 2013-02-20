@@ -7,6 +7,11 @@
 
         <h2> Enquete </h2>
 
+            {% for e in object_list %}
+                <p>
+                    <a href='/salvar/{{ e.url }}/'> {{ e.pergunta }} </a>
+                </p>
+            {% endfor  %}
 
     </body>
 
