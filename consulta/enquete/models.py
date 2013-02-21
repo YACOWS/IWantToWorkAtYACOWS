@@ -44,3 +44,7 @@ class Enquete(models.Model):
 
     def __unicode__(self):
         return u'%s - %s' % ( self.pergunta, self.data_criacao )
+
+    # retorna opcoes de voto em orderm alfabetica
+    def opcoes_voto(self, *args, **kwargs):
+        return Opcao.objects.filter(enquete=self).order_by('descricao')

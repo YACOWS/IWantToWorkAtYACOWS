@@ -15,7 +15,7 @@
 
         <form action='/salvar/{{ obj.url }}/' method='post'>
 
-                {% for o in obj.opcoes.all %}
+                {% for o in obj.opcoes_voto %}
                     <p>
                         <input type='radio' name='opcao' value='{{ o.id }}'> {{ o }} | Votos ({{ o.votos }})
                     </p>
