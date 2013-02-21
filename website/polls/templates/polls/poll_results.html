@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ poll }}</h1>
+
+<table>
+    <thead>
+        <tr>
+        <td>Choice</td><td>Votes</td>
+    </tr>
+    </thead>
+{% for choice in poll.choice_set.all %}
+    <tr>
+        <td>{{ choice }}</td><td>{{ choice.votes }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+<a href="{% url poll_detail poll.id %}">Vote again</a>
+{% endblock %}
