@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "admin", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2013-02-21T06:24:50Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$2xfwJPDiijrs$AdEr1aIn4NgyBYmKObSoGrwXBSDawHZsWgxNoHRSHsc=", 
+      "email": "sudowilliam@gmail.com", 
+      "date_joined": "2013-02-21T06:10:32Z"
+    }
+  }
+]
