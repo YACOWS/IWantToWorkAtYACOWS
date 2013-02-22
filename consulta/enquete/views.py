@@ -19,12 +19,12 @@ def salvar(request, url=None):
 
     if request.POST:
 
-        if not request.POST.get('opcao') == 'None' or request.POST.get('opcao') == None :
-
-            opcao = Opcao.objects.get( pk=request.POST.get('opcao') )
-            opcao.votos += 1
-            opcao.save()
+        if Opcao.objects.filter( pk=request.POST.get('opcao'), enquete__url=url ) :
+            opcao = Opcao.objects.get( pk=request.POST.get('opcao'), enquete__url=url )
+            opcao.comuta_voto()
             msg = u'Voto comutado com sucesso!'
+        else:
+            msg = u'Opção não existe!'
 
     return render_to_response('index.html', locals() )
 
@@ -36,7 +36,6 @@ def enquete_json( request ):
 
     array = {} # json
     i = 0
-
 
     for e in Enquete.objects.all():
 

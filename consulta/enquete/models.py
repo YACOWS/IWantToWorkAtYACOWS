@@ -12,6 +12,10 @@ class Opcao(models.Model):
     descricao = models.CharField( (u'Opcao'), max_length=50, null=False, blank=False )
     votos = models.PositiveIntegerField( (u'Votos recebidos'), default=0 )
 
+    def comuta_voto(self):
+        self.votos += 1
+        self.save()
+
     class Meta:
         verbose_name = (u'Opção')
         verbose_name_plural = (u'Opções')
