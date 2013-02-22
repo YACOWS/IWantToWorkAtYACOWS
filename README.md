@@ -31,7 +31,7 @@ Oferecemos salário de mercado!
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 
-## Senior Python Programmer (2 vagas)
+## Senior Python Programmer (1 vagas)
 
 ### Descrição da vaga:
 
