@@ -10,5 +10,6 @@ poll_resource = Resource(handler=PollHandler)
 urlpatterns = patterns('',
     url(r'^polls/(?P<poll_id>[^/]+)/$', poll_resource, name='poll'),
     url(r'^polls/$', poll_resource, name='polls'),
+    url(r'^vote/$', poll_resource, name='vote_poll'),
 )
 

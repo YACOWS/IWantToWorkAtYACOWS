@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 from piston.handler import BaseHandler
+from piston.utils import rc
 
-from .models import Poll
+from .models import Choice, Poll
 
 
 class PollHandler(BaseHandler):
-    allowed_methods = ('GET', )
+    allowed_methods = ('GET', 'POST',)
     model = Poll
     fields = ('id', 'question', ('choices', ('id', 'description', 'votes', )))
 
@@ -15,3 +16,8 @@ class PollHandler(BaseHandler):
         else:
             return Poll.objects.all()
 
+    def create(self, request):
+        data = request.data
+        choice = Choice.objects.get(pk=int(data['choice']))
+        choice.vote()
+        return rc.CREATED

@@ -85,3 +85,13 @@ class PollAPITestCase(TestCase):
         json_returned = json.loads(response.content)
         self.assertEqual(json_returned, expected_output)
 
+    def test_should_add_vote_to_choice(self):
+        choice = self.poll_2_choice_2
+
+        self.assertEqual(0, self.poll_1_choice_2.votes)
+        response = self.client.post(reverse('vote_poll'), {'choice': choice.id})
+        
+        choice = Choice.objects.get(pk=choice.id)  # Need to query again to check updated values
+        self.assertEqual(1, choice.votes)
+
+
