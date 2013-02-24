@@ -7,5 +7,6 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
+    (r'^api/', include('poll.urls')),
     url(r'^admin/', include(admin.site.urls)),
 )

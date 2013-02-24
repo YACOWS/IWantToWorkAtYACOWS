@@ -10,7 +10,7 @@ class Poll(models.Model):
 
 
 class Choice(models.Model):
-    poll = models.ForeignKey(Poll)
+    poll = models.ForeignKey(Poll, related_name='choices')
     description = models.CharField(max_length=255)
     votes = models.IntegerField(null=False, default=0)
 
