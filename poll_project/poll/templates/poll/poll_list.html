@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Avaliable Polls</h2>
+    <ul>
+        {% for poll in object_list %}
+        <li>{{ poll.question }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
