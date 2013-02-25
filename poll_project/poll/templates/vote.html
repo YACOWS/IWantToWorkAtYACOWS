@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <form method='POST', action='.'>{% csrf_token %}
+        <h1>{{ poll.question }}</h1>
+        {{ form.as_p }}
+        <button type="submit">Vote!</button>
+    </form>
+
+{% endblock %}
