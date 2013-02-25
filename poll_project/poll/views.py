@@ -18,6 +18,9 @@ def vote(request, poll_id):
     if request.method == 'POST':
         form = PollVoteForm(data=request.POST, poll_id=poll_id)
         if form.is_valid():
+            choice_id = int(request.POST['choices'])
+            choice = Choice.objects.get(pk=choice_id)
+            choice.vote()
             return redirect('/polls')
     else:
         form = PollVoteForm(poll_id=poll_id)
