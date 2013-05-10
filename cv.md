@@ -64,5 +64,5 @@ Inglês Intermediário
 
 
 ##Links
-[Blog](juliocsm.wordpress.com)
-[Linkedin](http://goo.gl/Qh7Jq)	
+*[Blog](http://juliocsm.wordpress.com)
+*[Linkedin](http://goo.gl/Qh7Jq)	
