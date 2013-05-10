@@ -61,3 +61,8 @@ Desenvolvimento de aplicações web escaláveis, metodologia ágeis de desenvolv
 
 ##Idiomas
 Inglês Intermediário
+
+
+##Links
+[Blog](juliocsm.wordpress.com)
+[Linkedin](http://goo.gl/Qh7Jq)	
