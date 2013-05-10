@@ -2,7 +2,7 @@
 
 Fundada em 2010, a [YACOWS](http://www.yacows.com.br) nasceu focada em soluções digitais para o mercado editorial.
 
-Trabalhando com estratégia, consultoria e desenvolvimento de soluções a YACOWS tem ajudado diversos clientes a se posicionar de forma inovadora na internet.
+Trabalhando com estratégia, consultoria e desenvolvimento de soluções a YACOWS tem ajudado diversos clientes do mercado editorial a alcançar a excelência na entrega de informação aos seus leitores.
 
 Hoje o principal produto da empresa é o CMS (Content Management System) totalmente construído nas necessidades e particularidades do mercado de jornais e revistas. Com grande flexibilidade e escalabilidade a YACOWS tem ajudado seus clientes com soluções estáveis e inovadoras.
 
@@ -21,7 +21,10 @@ Entre em contato com a gente: [contato@yacows.com.br](mailto:contato@yacows.com.
 * São Paulo - Região Vila Olímpia (com possibilidade de trabalho remoto);
 * Regime: PJ;
 * Período: Integral;
-* Contratação imediata.
+* Férias Remuneradas;
+* 13º Salário;
+* Contratação imediata;
+* Python Only! ;-)
 
 Oferecemos salário de mercado!
 
