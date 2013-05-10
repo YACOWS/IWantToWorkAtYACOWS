@@ -1,20 +1,46 @@
 # Vaga
+Senior Python  Programmer
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 # CV
+## Summary
+Tenho 7 anos de experiência com desenvolvimento back end web, comecei com PHP. Após
+um tempo usando PHP estrutural, comecei a me interessar por frameworks corporativos e
+MVC. Ao procurar algo mais profissional encontrei o python e comecei a utilizar como
+linguagem principal e não parei mais. E hoje utilizo python e django em grandes projetos
+que tenho possibilidade de opinar. Hoje programo em python e ruby, tendo preferência claro
+por python. Participei do desenvolvimento de diversos CMS , CRM`s e de uma rede social
+com mais 500k usuários, sempre com python/django. No trabalho atual, atuo como back
+end em ruby on rails, sysadmin e cm. Possuo conhecimento nos serviços de cloud e cdn bem
+como Amazon, Heroku e Akamai.
 
-[Preencha aqui o seu cv]
+##Skills
++SQL
++DevOps
++Mysql
++Unix/Linux
++Jquery
++Django
++MongoDB
++Bash
++Shell Scripting
++GA
++JS
++XML
++HTML
++CSS
++Scrum
++Kanban
++Python
++Ruby
++Git
++Mercurial
++AngularJS
++Scrapy
++Tornado Web Server
++Zepto.js
++Ruby on Rails
++Postygresql
 
+##Experience
 
-__Dicas:__
-
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da YACOWS irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.md no projeto [IWantToWorkAtYACOWS] (http://github.com/YACOWS/IWantToWorkAtYACOWS), para ver o cheat-sheet
