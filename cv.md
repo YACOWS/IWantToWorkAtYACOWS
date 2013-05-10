@@ -45,8 +45,10 @@ como Amazon, Heroku e Akamai.
 ##Experiência
 >Complexo de Ensino Renato Saraiva
 >> Senior Web Developer/ DevOps (Ruby on Rails)
+
 >Ogilvy & Mather
 >> Senior Web developer python/django
+
 >AIBOX Intelligent Systems
 >> Pleno WebDeveloper python/django
 
