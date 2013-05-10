@@ -15,32 +15,32 @@ end em ruby on rails, sysadmin e cm. Possuo conhecimento nos serviços de cloud 
 como Amazon, Heroku e Akamai.
 
 ##Skills
-+SQL
-+DevOps
-+Mysql
-+Unix/Linux
-+Jquery
-+Django
-+MongoDB
-+Bash
-+Shell Scripting
-+GA
-+JS
-+XML
-+HTML
-+CSS
-+Scrum
-+Kanban
-+Python
-+Ruby
-+Git
-+Mercurial
-+AngularJS
-+Scrapy
-+Tornado Web Server
-+Zepto.js
-+Ruby on Rails
-+Postygresql
+*   SQL
+*   DevOps
+*   Mysql
+*   Unix/Linux
+*   Jquery
+*   Django
+*   MongoDB
+*   Bash
+*   Shell Scripting
+*   GA
+*   JS
+*   XML
+*   HTML
+*   CSS
+*   Scrum
+*   Kanban
+*   Python
+*   Ruby
+*   Git
+*   Mercurial
+*   AngularJS
+*   Scrapy
+*   Tornado Web Server
+*   Zepto.js
+*   Ruby on Rails
+*   Postygresql
 
 ##Experience
 
