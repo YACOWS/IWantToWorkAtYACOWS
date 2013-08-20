@@ -13,7 +13,7 @@ Entre em contato com a gente: [contato@yacows.com.br](mailto:contato@yacows.com.
 * Forka esse projeto;
 * Preencha o arquivo cv.md com seu currículo;
 * Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
-* Após preenchar faça um pull request.
+* Após preencher faça um pull request.
 
 
 # Condições e Benefícios Oferecidos
