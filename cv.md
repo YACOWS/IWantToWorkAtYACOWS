@@ -1,40 +1,76 @@
-# Vaga
+##Horacio Ibrahim de S. Moreira##
+Brasileiro, 31 anos, casado
 
-[Senior Python Programmer]
+Endereço: Asa Sul, Brasília – DF - Brasil – 70258-070 
 
-##Formação
-Graduando em Análise e Desenvolvimento e Sistemas pela Universidade Católica de Brasília - UCB 
+Contato: horacioibrahim@gmail.com  | (61) 9839-2053
 
-##Experiência
-Trabalho com infraestrutura de TIC há 10 anos especializado em ambientes Unix/Linux. 
+Linkedin: br.linkedin.com/in/horacioibrahim‎
 
-### Período 2009 à 2012
-####Cargo/Função: Líder Divisão em Correio Eletrônico - Serpro
-* Principais ações: Implementei a virtualização de servidores, o processo de liberação baseado na biblioteca ITIL, 
-e participei atuando tecnicamente nos processos de migração para soluções de alta performance (opensource/Linux). 
-As atividades exigiam vasto uso linguagem de script como bash, python e perl para automação da infraestrutura
-e integração de plataformas, por exemplo, Microsoft Outlook com Expresso/OpenLdap. As principais soluções usadas: PostgreSQL, OpenLDAP, Apache, Sendmail, Postfix, Mailman, Xen.
+* ###Formação###
 
-####Carga/Função: Desenvolvedor & co-fundador
-* Principais ações: Paralelamente ao cargo acima atuei em diversas startups no desenvolvimento de produtos em python/django e gestão de negócios.
-Permitiu adiquirir experiência em HTML5, CSS3, Javascript, Jquery, Ajax, Nginx, Gunicorn, WSGI, PhoneGap(básico), TDD.
+  * Graduando em Análise e Desenvolvimento de Sistemas. Universidade Católica de Brasília, conclusão em 2013.
+  * Técnico em Mecânica Industrial, Escola Técnica Federal de Pernambuco (ETFPE/CEFET), concluído em 2000.
 
-##Cursos Complementares
-* PostgreSQL para Alta Perfomance
-* Desenvolvendo Módulos para Kernel Avançado
-* Red Hat Enterprise Essentials
-* Sendmail e Postfix para Alta Performance
-* Gestão de projetos ágeis (SCRUM)
+* ###Cursos Complementares###
 
-##Outras informações
-Escreveu o artigo “Virtualização de Servidores com Xen”  para o Congresso Serpro de Tecnologia e Gestão Aplicadas à Serviços Públicos sobre os benefícios da virtulização (6º colocado).
+  * Algorithms: Design and Analysis, Part 2 (Stanford Online)
+  * Imersão Django e Welcome to the Django (Dekode)
+  * Gestão de projetos ágeis, SCRUM – (Caelum)
+  * PostgreSQL para Alta Perfomance (4Linux) 
+  * Desenvolvendo Módulos para Kernel Avançado (Training Tecnologia)
+  * Red Hat Enterprise Essentials (Serpro) 
+  * Postfix para Alta Perfomance (4Linux)
+  * Alta disponibilidade (Marcos Pitanga, Serpro)
 
-##Considerações Finais
-Com as experiências adquiridas nas startups e trabalhando concomitante aprendi a gerenciar o tempo de forma para ser mais produtivo
-sem perder a criatividade e sem exaurir o espírito.
-Sou pro-ativo, adoro produzir e participar de equipes excelentes me motiva.
-Entre 2009 e 2011 meu foco em python eram scripts de automação. Nesse período conheci o Django e Python verdadeiramente onde
-me envolvi completamente com essa linguagem. Até que em 2012 mergulhei fundo, e deixei de usar Django apenas para prototipar ideias passando
-a adotá-lo para produzir complementamente produtos de qualidade (estáveis e bem testados).
+* Idiomas
+  * Inglês: leitura plena, escrita intermediária, conversação básica.
 
-Por isso, para fins de Junior, Sênior e afins, conforme mercado eu tenho experiência na atuação profunda com Django/Python de 1 ano. De qualquer preenchi a vaga, pois acredito que tenho uma capacidade de alcançar resultados que podem contribuir.
+###Histórico profissional###
+
+* ####Bambae - Consultoria e Serviços para Internet, LTDA####
+ * De dezembro/2009 até Dezembro/2012
+ * Local: Brasília - DF
+ * Função: Desenvolvedor Backend/FrontEnd e Líder do Projeto.
+ * Tecnologias utilizadas:
+  * Django/Python, HTML5, JS, CSS3
+  * Python, Perl e Bash para automação da infraestrutura
+  * PostgreSQL, Postfix, Ngnix, Gunicorn, Sentry, Iptables, Git
+  * Debian
+
+* ####Serpro - Serviço Federal de Processamento de Dados####
+ * De agosto/2009 até Novembro/2012
+ * Local: Brasília - DF
+ * Função: Especialista em Menssageria (Messaging) e Chefe da Divisão em Correio Eletrônico.
+ * Tecnologias utilizadas:
+  * Antispam: ProofPoint
+  * Python, Perl e Bash para automação da infraestrutura
+  * OpenLDAP, PostgreSQL, Sendmail, Postfix, Apache (proxy, balance, failover), Iptables
+  * RedHat, Debian, XenSource
+  
+* ####Serpro - Serviço Federal de Processamento de Dados####
+ * De janeiro/2009 até agosto/2009
+ * Local: Departamento Nacional de Infraestrutura e Transporte (DNIT), Brasília - DF
+ * Função: Administrador de Redes e Supervisor da equipe.
+ * Tecnologias utilizadas:
+  * Linux CentOS, Microsfot Windows 2000 e 2003/ MS Exchange Server
+  * Python, Perl e Bash para automação da infraestrutura
+  * Postfix, Apache, Iptables, Mysql
+  * XenSource, DRBD, LVM, SAN
+
+* ####Serpro - Serviço Federal de Processamento de Dados####
+ * De janeiro/2007 até dezembro/2008
+ * Local: Escola Nacional de Administração Pública (ENAP), Brasília - DF
+ * Função: Administrador de Redes e Supervisor da equipe.
+ * Tecnologias utilizadas:
+  * Linux CentOS, Microsfot Windows 2000 e 2003/ MS Exchange Server
+  * Python, Perl e Bash para automação da infraestrutura
+  * Postfix, Apache, Iptables, Bind9, Squid, Mysql
+  * XenSource (virtualização de servidores), DRBD, LVM, SAN
+
+
+* ###Informações Complementares### 
+  * Conhecimento em SO Linux, Python, SQL, XHTML, CSS, Javascript, XML, MySQL, PostgreSQL;
+  * Desenvolvimento de aplicações web Python/Django;
+  * Autor do artigo: Virtualização de Servidores com Xen. Escrito para o Congresso Serpro de Tecnologia e Gestão Aplicadas à Serviços Públicos;
+  * Projetos solo: Opsit.me, Rappaport.com.br
