@@ -1,6 +1,6 @@
 # Vaga
 
-[Preencha aqui a vaga que você pretende]
+[Senior Python Programmer]
 
 __Dicas:__
 
@@ -8,8 +8,26 @@ __Dicas:__
 
 # CV
 
-[Preencha aqui o seu cv]
+## Dados Pessoais
+* Nome: Henrique Martins Leal // @hmleal
+* Email: hm.leal@hotmail.com
 
+## Experiência Profissional
+
+* Programador Python na MR2 Digital (job atual)
+* Programador PHP, na Syntesis Ecossistema Digital
+
+## Portfolio (alguns)
+* [Minami Motors](https://github.com/hmleal/Portfolio/blob/master/latest_work/minami_motors.md)
+* [Zaveo](https://github.com/hmleal/Portfolio/blob/master/latest_work/zaveo.md)
+* ...
+
+## Skills
+* Experiência em python e django
+* Experiência em HTML5, CSS e jQuery (vide portfolio)
+* Conhecimento em Servidores Linux, nginx, gunicorn, WSGI
+* Git, Github
+* TDD
 
 __Dicas:__
 
