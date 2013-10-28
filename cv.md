@@ -2,10 +2,6 @@
 
 [Senior Python Programmer]
 
-__Dicas:__
-
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
-
 # CV
 
 ## Dados Pessoais
@@ -16,6 +12,7 @@ __Dicas:__
 
 * Programador Python na MR2 Digital (job atual)
 * Programador PHP, na Syntesis Ecossistema Digital
+* Prumos Interativa
 
 ## Portfolio (alguns)
 * [Minami Motors](https://github.com/hmleal/Portfolio/blob/master/latest_work/minami_motors.md)
