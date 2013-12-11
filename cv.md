@@ -1,15 +1,15 @@
 # Vaga
 
-[Preencha aqui a vaga que você pretende]
+Senior Python Programmer
 
-__Dicas:__
-
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 # CV
 
-[Preencha aqui o seu cv]
-
+Name:      Eduardo Oliva Barruzi 
+Birthday:  01/03/85 
+E-mail:     dutche@gmail.com 
+Linkedin: http://www.linkedin.com/in/eduardooliva
+Phone:      +55 11 981 460 117
 
 __Dicas:__
 
