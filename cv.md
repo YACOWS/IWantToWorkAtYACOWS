@@ -130,12 +130,3 @@ Linux Servers consulting.
 * Hackers to Hackers Brazil – São Paulo
 * Amazon Summit – São Paulo
 * Python Brasil – São Paulo, Joinville and Campinas
-
-
-__Dicas:__
-
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da YACOWS irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.md no projeto [IWantToWorkAtYACOWS] (http://github.com/YACOWS/IWantToWorkAtYACOWS), para ver o cheat-sheet
