@@ -64,6 +64,55 @@ FIAP – Faculdade de Informática e Administração Paulista
 * GIAC STAR - Comprehensive Packet Analysis 
 
 
+## Professional
+
+**Opencoding Consultoria Ltda. ( current working, self employed )**
+
+Solution Architect in Cloud Computing Services with Amazon Web Services.
+
+Responsible for design and implementation of infrastructure projects. Migration of working environments and creation of new ones.
+
+Using basically Linux (RedHat, Ubuntu, AmazonLinux, CentOS), Windows, AWS, Python, Fabric.
+
+**WestWing Brasil**
+
+The venture of Westwing.de in Brazil that is the world's most lucrative company.
+
+Working with infrastructure, using Linux servers to maintain the sites running, databases in Mysql and  HA cluster.
+
+Using, Shell Script, Nginx, Mysql, Python, Linux RedHat and Debian, SVN and GNU Make (Deploy)
+
+**Qualys Inc.**
+
+The most rewarded company in the computer security in United States.
+
+Working as Security Researcher in Malware and Vulnarability Directory.
+
+Using Python, Django, Shell Script and Linux, for different tasks.
+
+**MC Minicom Comércios e Serviços Ltda (Mc Minicom Services and Trades)**
+
+Company in the IT segment and Software development of financial brazilian market. 
+
+Started as PHP Programmer. 
+
+Working as Software Engineer using Python, Django, Shell Script and C. 
+
+Working as Network Admin. 
+
+**Prodam – Companhia de Processamento de Dados do Município de São Paulo (Data Processing Company of Sao Paulo City)**
+
+Company in the segment of IT and digital inclusion.
+
+Linux SysAdmin. 
+
+**Grupo Tilelli (Tilelli Group)**
+
+Group composed by three companies, two in the juridical branch and other in immobilary. 
+
+Linux Servers consulting. 
+
+
 __Dicas:__
 
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
