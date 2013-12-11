@@ -15,6 +15,9 @@ Linkedin:  [Eduardo Oliva Profile](http://www.linkedin.com/in/eduardooliva)
 
 Phone:     +55 11 981 460 117
 
+***
+
+**Professional Goals**: Act specifically in the Network, Programming, Cloud and Linux areas. Prone to challenges.
 
 __Dicas:__
 
