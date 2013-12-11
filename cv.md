@@ -6,10 +6,15 @@ Senior Python Programmer
 # CV
 
 Name:      Eduardo Oliva Barruzi
+
 Birthday:  01/03/85
+
 E-mail:    [dutche@gmail.com](mailto:dutche@gmail.com)
-Linkedin:  EduardoOliva''s Profile(http://www.linkedin.com/in/eduardooliva)
-Phone:      +55 11 981 460 117
+
+Linkedin:  [Eduardo Oliva Profile](http://www.linkedin.com/in/eduardooliva)
+
+Phone:     +55 11 981 460 117
+
 
 __Dicas:__
 
