@@ -112,6 +112,25 @@ Group composed by three companies, two in the juridical branch and other in immo
 
 Linux Servers consulting. 
 
+## Trainings
+
+* Comprehensive Packet Analysis at SANS Institute 
+* Linux exploitation at Coseinc 
+* PenTest 101 at H2HC (Hackers to Hackers Conference - Brazil) 
+* Security Officer Modules 1 and 2 at Módulo Security Brazil 
+* PostgreSql Basic and Administration at DbExperts
+* HA Cluster at 4Linux
+
+## Conferences 
+
+**As a way to elicit my knowledge, I have attended to conferences like:**
+
+* Defcon – Las Vegas
+* B-Sides – Las Vegas
+* Hackers to Hackers Brazil – São Paulo
+* Amazon Summit – São Paulo
+* Python Brasil – São Paulo, Joinville and Campinas
+
 
 __Dicas:__
 
