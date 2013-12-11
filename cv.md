@@ -2,7 +2,6 @@
 
 Senior Python Programmer
 
-
 # CV
 
 Name:      Eduardo Oliva Barruzi
@@ -18,6 +17,16 @@ Phone:     +55 11 981 460 117
 ***
 
 **Professional Goals**: Act specifically in the Network, Programming, Cloud and Linux areas. Prone to challenges.
+
+## Academic Information
+
+Software Development Technology 
+FIAP – Faculdade de Informática e Administração Paulista 
+
+## Spoken Languages
+
+* Fluent English
+* Basic Spanish
 
 __Dicas:__
 
