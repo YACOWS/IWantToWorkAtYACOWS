@@ -1,6 +1,8 @@
 # Vaga
 
-Desenvolvedor Backend
+Senior Python Programer
+
+Python Backend Developer (segundo contato com Bruno Rocha)
 
 
 # CV
