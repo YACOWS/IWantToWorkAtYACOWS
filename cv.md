@@ -19,7 +19,7 @@ mauro.baraldi@gmail.com
 
 #### Apresentação
 
-Atuo na área de tecnologia há 18 anos, principalmente como desenvolvedor e Sys Admin. Desenvolvo em Python há mais de 10 anos e desde 2008 o uso como linguagem principal nos projetos. Atualmente, tenho voltado meu interesse para novas tendências da Web como Social Networks, SEO, Semantic Web e aplicações de metodologia ágil em projetos. Programador por hobby.
+Atuo na área de tecnologia há 18 anos principalmente como desenvolvedor e Sys Admin. Desenvolvo em Python há mais de 10 anos e, desde 2008, o uso como linguagem principal nos projetos. Atualmente, tenho voltado meu interesse para novas tendências da Web como Social Networks, SEO, Semantic Web e aplicações de metodologia ágil em projetos. Programador por hobby.
 
 
 #### Histórico Profissional:
@@ -30,7 +30,7 @@ Atuo na área de tecnologia há 18 anos, principalmente como desenvolvedor e Sys
 
     Principais produtos desenvolvidos
 
-    * Plataforma de cursos a distancia (eLearning). Implementações:
+    * Plataforma de cursos a distância (e-Learning). Implementações:
     
       [Claro Cursos] (https://www.titanssolutions.net/cursos-clarobr/, "Claro Cursos")
     
@@ -38,7 +38,7 @@ Atuo na área de tecnologia há 18 anos, principalmente como desenvolvedor e Sys
     
       [Telcel Idiomas Mexico] (http://telcel.ideasidiomas.com, "Telcel Idiomas")
     
-    * Plataforma de cursos a distancia (eLearning). Implementações:
+    * Plataforma de gerenciamento de promoções. Implementações:
     
       [Claro Promoções Brasil] (http://aprendaganhe.com.br, "Claro Aprenda e Ganhe")
 
@@ -66,14 +66,14 @@ Atuo na área de tecnologia há 18 anos, principalmente como desenvolvedor e Sys
 
     * Plataforma para broadcast de informações (inspirada no Twitter) [Metalogger]. (https://github.com/maurobaraldi/metalogger, "Metalogger")
     
-    * Plataforma de gerenciamento de ocorrencias [Service Desk]. (https://github.com/maurobaraldi/Service-Desk, "Service Desk")
+    * Plataforma de gerenciamento de ocorrências [Service Desk]. (https://github.com/maurobaraldi/Service-Desk, "Service Desk")
     
     * Backup de logs [Pyckup] (https://github.com/maurobaraldi/Pyckup, "Pyckup")
 
 
 * ##### Visie – Fevereiro/2011 à Junho/2011
 
-    Desenvolvimento de aplicações web usando os frameworks baseados na linguagem Python, Web2py e Django, usando Scrum como metodologia de trabalho em time.
+    Desenvolvimento de aplicações web usando os frameworks baseados na linguagem Python, Web2py e Django, adotando Scrum como metodologia de trabalho em time.
 
 	Principais projetos desenvolvidos
 	
