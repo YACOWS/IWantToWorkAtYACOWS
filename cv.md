@@ -3,17 +3,17 @@
 Senior Python Programmer
 
 
-### JOÃO DIAS DE CARVALHO NETO
+##### JOÃO DIAS DE CARVALHO NETO
 
-#### Rua São Paulo  Nº 364 - Centro - Cascavel - PR
-#### +55(44)9837-9608
-#### http://jcarvalho.me
-#### contato@jcarvalho.me
+###### Rua São Paulo  Nº 364 - Centro - Cascavel - PR
+###### +55(44)9837-9608
+###### http://jcarvalho.me
+###### contato@jcarvalho.me
 
-* ANALISTA DESENVOLVEDOR WEB
-* 28 anos de idade e 8 anos de carreira em desenvolvimento de software.
+ANALISTA DESENVOLVEDOR WEB
+28 anos de idade e 8 anos de carreira em desenvolvimento de software.
 
-Resumo das competências
+###### Resumo das competências
 
 Sólidos conhecimentos no desenvolvimento de aplicações Desktop e Web, utilizando-se de várias linguagens, dentre as quais destaco: Python, JavaScript, Shell Scripts, PHP, SQL, PLSQL,  e Delphi;
 Hábil com as apps Python: PIL, Social_Auth, reportlab, xhtml2pdf, South, django-pipeline, gunicorn 
@@ -27,12 +27,12 @@ Atuante da comunidade BI QlikCommunity:
 Auto motivado, auto determinado e aficcionado por aprendizagem;
 Colaborador da revista Portuguesa de programação Programar;
 
-Formação Acadêmica e Idiomas
+###### Formação Acadêmica e Idiomas
 
 Graduando em Análise e desenvolvimento de sistemas pela Unopar;
 Inglês intermediário para escrita e fala;
 
-Experiência Profissional
+###### Experiência Profissional
 
 COODETEC - 01/07/2013 - Até o presente momento
 Cooperativa central de pesquisa agrícola do estado do Paraná. Desenvolvedora de tecnologias em sementes de Milho, Soja e trigo, trabalhando há quase 40 anos no melhoramento genético dessas culturas.
@@ -43,7 +43,7 @@ Recriar a interface do sistema web de emissão de laudos de análise de solos, u
 
 
 
-APR Tecnologia - 04/06/2012 - 21/06/2013
+###### APR Tecnologia - 04/06/2012 - 21/06/2013
 Software house sediada em Curitiba-PR, com filial em Cascavel-PR. Focada no desenvolvimento e customização de Softwares como Serviço (SaaS) bem como emissão de conhecimento de transporte eletrônico (CT-e) para transportadoras de diversos portes;
 Analista Desenvolvedor:
 Reportando-me ao gerente de desenvolvimento fui responsável por implementar novas rotinas e corrigir bugs de software em ambiente SaaS em C# e ASP.NET MVC e jQuery;
@@ -53,7 +53,7 @@ Implantei a ferramenta para o gerenciamento de incidentes ITIL - OTRS em ambient
 
 
 
-Master Magazine LTDA - 10/2009-01/2012
+###### Master Magazine LTDA - 10/2009-01/2012
 Empresa do segmento varejista de médio porte, voltada ao ramo de magazines, focada na força crediarista e possuindo 16 filiais espalhadas entre Pernambuco e Bahia;
 Analista de Aplicações
 Reportando-me ao gerente de Tecnologia e Qualidade, fui responsável pelo desenvolvimento de softwares e controle de qualidade de aplicações em uma equipe de 9 pessoas, entre analistas de desenvolvimento, analistas de suporte e negócio;
@@ -63,10 +63,10 @@ Desenvolvi um framework em PHP para criação e envio de e-mails contendo relat�
 Fui responsável por criar rotinas de importação e exportação de dados para sistemas legados e novos sistemas adquiridos pela empresa;
 Fui responsável pelo desenvolvimento de um módulo de gerenciamento eletrônico de documentos para armazenar documentos no ato do cadastro e evitar fraudes na concessão de crédito;
 
-Informações Adicionais
+###### Informações Adicionais
 Brasileiro, Casado, 2 filhos;
 
-Cursos
+###### Cursos
 EAC Software - Belo Horizonte – MG – 11/2009 (http://www.eacsoftware.com.br);
 QuerySQL – Criando Relatórios no SACI V6; Designer;
 Criando novas janelas no SACI V6;
@@ -74,13 +74,3 @@ Administração de MySQL para Administradores de SACI V6;
 SACI Web – WebDesktop;
 Auditoria pelo Log Binário do MySQL; 
 Otimização de Consultas;
-
-
-
-__Dicas:__
-
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da YACOWS irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.md no projeto [IWantToWorkAtYACOWS] (http://github.com/YACOWS/IWantToWorkAtYACOWS), para ver o cheat-sheet
