@@ -43,7 +43,7 @@ Recriar a interface do sistema web de emissão de laudos de análise de solos, u
 
 ###### APR Tecnologia - 04/06/2012 - 21/06/2013
 Software house sediada em Curitiba-PR, com filial em Cascavel-PR. Focada no desenvolvimento e customização de Softwares como Serviço (SaaS) bem como emissão de conhecimento de transporte eletrônico (CT-e) para transportadoras de diversos portes;
-###### Analista Desenvolvedor: ###### 
+###### Analista Desenvolvedor:
 Reportando-me ao gerente de desenvolvimento fui responsável por implementar novas rotinas e corrigir bugs de software em ambiente SaaS em C# e ASP.NET MVC e jQuery;
 A equipe era remotamente distribuída, trabalhávamos com SCRUM e Team Foundation Server;
 Fui Responsável por iniciar o processo de integração entre parceiros através de Serviços Web em uma arquitetura distribuída;
