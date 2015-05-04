@@ -1,20 +1,34 @@
 # Vaga
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+## Senior Python Programmer
 
 # CV
 
-[Preencha aqui o seu cv]
+## Helton Alves
+Desenvolvedor de Software 
 
+### Resumo
 
-__Dicas:__
+Desenvolvedor de software com experiência em desenvolvimento de aplicações web. Atualmente atuo principalmente como desenvolvedor Backend e tenho Python como principal tecnologia, juntamente com os frameworks Django e Bottle. Como Frontend tambem tenho algumas experiências com ferramentas e técnicas utilizadas no Mercado hoje em dia. 
 
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da YACOWS irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.md no projeto [IWantToWorkAtYACOWS] (http://github.com/YACOWS/IWantToWorkAtYACOWS), para ver o cheat-sheet
+### Experiência Profissional
+
+PROJECTONE (2014 - remoto) 
+Desenvolvimento backend, criação da estrutura de toda API que faz comunicação com o frontend da empresa EasyTown e integrações com outras APIs utilizando python, bottle e MongoDB. 
+
+AVELINOLABS (2012 - 2014 - remoto) 
+Desenvolvimento frontend e backend de websites e sistemas usando python com o framework django. 
+
+INGG (2010 - 2011) 
+Desenvolvimento frontend e backend de websites e sistemas. 
+
+### Formação Acadêmica 
+
+FACIMP - Faculdade de Imperatriz (2009 - 2013) 
+Graduado em Sistemas de Informação. 
+
+### Links 
+
+Github - https://github.com/heltonalves99
+Linkedin - http://ie.linkedin.com/pub/helton-alves/94/731/783
+
