@@ -6,31 +6,31 @@ Senior Python Programmer
 
 ## Dados Pessoais
 * * *
-*Data e Local de Nascimento*: 07 de Agosto de 1988 | Rio de Janeiro, Brasil
-*Endereço*: Rua Julio Novelino, 14, Casa B, Recanto das Dunas, Cabo Frio, RJ
-*Celular*: (22) 9 9866-6424
-*Email*: <dsousamiranda@gmail.com>
+* *Data e Local de Nascimento*: 07 de Agosto de 1988 | Rio de Janeiro, Brasil
+* *Endereço*: Rua Julio Novelino, 14, Casa B, Recanto das Dunas, Cabo Frio, RJ
+* *Celular*: (22) 9 9866-6424
+* *Email*: <dsousamiranda@gmail.com>
 
 ## Experiência
 * * *
 * *04/2014-01/2015* - **Analista de TI/Desenvolvedor Web** na *Prooceano*, Rio de Janeiro, Brasil
 > Durante o periodo de 1 ano, cujo o principal objetivo foi o desenvolvimento e manutenção de site para clientes
-da Prooceano, tive a oportunidade de desenpenhar minhas habilidades adquiridas em trablhos anteriores na área
-da oceanografia, desenvolvendo ferramentas para visualização dos dados atmosféricos e oceanográficos.
-Em maiores detalhes, executei as seguintes tarefas:
+> da Prooceano, tive a oportunidade de desenpenhar minhas habilidades adquiridas em trablhos anteriores na área
+> da oceanografia, desenvolvendo ferramentas para visualização dos dados atmosféricos e oceanográficos.
+> Em maiores detalhes, executei as seguintes tarefas:
 > > + Implementação de rotinas automatizadas em Python e Shell Script;
-+ Implementação de scripts em Python para visualização de dados atmosféricos e oceanográficos;
-+ Desenvolvimento de produtos web em PHP, JavaScript, HTML5 e CSS3;
-+ Implementação de Banco de Dados MySQL;
-+ Servidor Amazon AWS, New Relic.
+> > + Implementação de scripts em Python para visualização de dados atmosféricos e oceanográficos;
+> > + Desenvolvimento de produtos web em PHP, JavaScript, HTML5 e CSS3;
+> > + Implementação de Banco de Dados MySQL;
+> > + Servidor Amazon AWS, New Relic.
 
 * *06/2012-04/2014* - **Desenvolvedor de Software** no *Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM) - Marinha do Brasil*, Arraial do Cabo, RJ, Brasil
-> Durante o periodo de 2 anos, cujo o principal objetivo foi desenvolver dois softwares estratégicos para a Marinha do Brasil, tive a oportunidade de vivenciar um ambiente multidisciplinar ao qual me conferiu maior responsabilidade profissional e bons princípios em se trabalhar em equipe além de me proporcionar conhecimentos teóricos na área da oceanografia física. Em maiores detalhes, executei as seguintes tarefas:
+> Durante o periodo de 2 anos, cujo o principal objetivo foi desenvolver dois softwares estratégicos para a Marinha > do Brasil, tive a oportunidade de vivenciar um ambiente multidisciplinar ao qual me conferiu maior responsabilidade profissional e bons princípios em se trabalhar em equipe além de me proporcionar conhecimentos teóricos na área da oceanografia física. Em maiores detalhes, executei as seguintes tarefas:
 > > + Analise e desenvolvimento do SISPRES v2.0 inteirmante em Python e PostgreSQL;
-+ Analise e desenvolvimento do CARGO v2.0 (Projeto PROCEAN) inteiramente em Python e PostgresSQL;
-+ OS de desenvolvimento Linux Ubuntu;
-+ Implementação, configuração e manutençao de Clusters para modelagem numérica, e;
-+ Projeto DetecFeições II (HTML5, CSS3, JavaScript e Django).
+> > + Analise e desenvolvimento do CARGO v2.0 (Projeto PROCEAN) inteiramente em Python e PostgresSQL;
+> > + OS de desenvolvimento Linux Ubuntu;
+> > + Implementação, configuração e manutençao de Clusters para modelagem numérica, e;
+> > + Projeto DetecFeições II (HTML5, CSS3, JavaScript e Django).
 
 ## Formação Acadêmica
 * * *
