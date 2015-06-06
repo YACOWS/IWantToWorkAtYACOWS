@@ -34,26 +34,25 @@ Senior Python Programmer
 
 ## Formação Acadêmica
 * * *
-* Univesidade Estácio de Sá - Rio de Janeiro - **Jan'2009 - presente**
-> B.Sc. em Sistemas de Informação
-> > Curso multidisciplinar com foco na analise e desenvolvimento de softwares para facilitar o planejamento, o controle, a coordenação, a análise e o processo decisório em organizações. Meus interesses durante este período estão voltados a um melhor conhecimento sobre Inteligência Artifical e técnicas em análise de dados - Big Data
+* *Univesidade Estácio de Sá* - Rio de Janeiro - **Jan'2009 - presente (8º periodo)**
+* > B.Sc. em Sistemas de Informação
+* * > > Curso multidisciplinar com foco na analise e desenvolvimento de softwares para facilitar o planejamento, o controle, a coordenação, a análise e o processo decisório em organizações. Meus interesses durante este período estão voltados a um melhor conhecimento sobre Inteligência Artifical e técnicas em análise de dados - Big Data
 
 ## Cursos Livres
 * * *
-*Mar'2013* - Machine Learning, Stanford University Coursera Platform
-*Out'2014* - Introduction to Computational Thinking and Data Science, MIT edX Platform
-*Out'2014* - Engineering Software as a Service, Berkeley edX Platform
++ *Mar'2013* - Machine Learning, **Stanford University Coursera Platform**
++ *Out'2014* - Introduction to Computational Thinking and Data Science, **MIT edX Platform**
++ *Out'2014* - Engineering Software as a Service, **Berkeley edX Platform**
 
 ## Habilidades
 * * *
-* > *Conhecimentos*: Modelagem de Sistemas, Requisitos de Sistemas, Testes de Desenvolvimento,
-> UML, Python, Ruby, PHP, C++, JavaScript, UML, HTML5, CSS3, Java, SQL, Linux, Git.
-* > *Frameworks*: Ruby On Rails, Django, Web2py, Flask, Backbone.js, Angular.js, Require.js, Yii, Laravel e Node.js, Meteor.js. 
-* > *DMSs*: MySQL, PostgreSQL, SQLite, Oracle, SQL Server, MongoDB e NoSql.
-* > *ORMs*: SQLAlchemy, Doctrine, Hibernate, Django e DAL(Declarative Abstract Layer)
-* > *API's|LIB's*: Matplotlib, Scipy, Numpy, PHPGeo, pChart, PHPChart, NetworkX, Scikit-Learn, wxPython, Pytest, AJAX, jQuery, SciRuby, RSpec, Google, Facebook, Twitter, Foursquare.
-* > *Básico*: C#, Fortran, Go e Java.
-* > *Em progresso*: Desenvolvimento mobile (cordova), Pearl, Clojure and Lua.
+* *Conhecimentos*: Modelagem de Sistemas, Requisitos de Sistemas, Testes de Desenvolvimento, UML, Python, Ruby, PHP, C++, JavaScript, UML, HTML5, CSS3, Java, SQL, Linux, Git.
+* *Frameworks*: Ruby On Rails, Django, Web2py, Flask, Backbone.js, Angular.js, Require.js, Yii, Laravel e Node.js, Meteor.js. 
+* *DMSs*: MySQL, PostgreSQL, SQLite, Oracle, SQL Server, MongoDB e NoSql.
+* *ORMs*: SQLAlchemy, Doctrine, Hibernate, Django e DAL(Declarative Abstract Layer)
+* *API's|LIB's*: Matplotlib, Scipy, Numpy, PHPGeo, pChart, PHPChart, NetworkX, Scikit-Learn, wxPython, Pytest, AJAX, jQuery, SciRuby, RSpec, Google, Facebook, Twitter, Foursquare.
+* *Básico*: C#, Fortran, Go e Java.
+* *Em progresso*: Desenvolvimento mobile (cordova), Pearl, Clojure and Lua.
 
 ## Eventos
 * * * 
@@ -78,9 +77,9 @@ Viagens, Surf e xadrez.
 
 ## Idiomas
 * * *
-*Português*: Idioma materno
-*Inglês*: Leitura e Escrita bem, conversação regular.
-*Francês*: Básico
++ *Português*: Idioma materno
++ *Inglês*: Leitura e Escrita bem, conversação regular.
++ *Francês*: Básico
 
 __Dicas:__
 
