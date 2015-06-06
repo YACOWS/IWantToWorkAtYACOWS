@@ -1,6 +1,4 @@
-# Vaga
-
-Senior Python Programmer
+# Senior Python Programmer
 
 # Diego de Sousa Miranda
 
@@ -34,9 +32,9 @@ Senior Python Programmer
 
 ## Formação Acadêmica
 * * *
-* *Univesidade Estácio de Sá* - Rio de Janeiro - **Jan'2009 - presente (8º periodo)**
-* > B.Sc. em Sistemas de Informação
-* * > > Curso multidisciplinar com foco na analise e desenvolvimento de softwares para facilitar o planejamento, o controle, a coordenação, a análise e o processo decisório em organizações. Meus interesses durante este período estão voltados a um melhor conhecimento sobre Inteligência Artifical e técnicas em análise de dados - Big Data
+* **Univesidade Estácio de Sá** - Rio de Janeiro - *Jan'2009 - presente (8º periodo)*
+* * B.Sc. em Sistemas de Informação
+* * * Curso multidisciplinar com foco na analise e desenvolvimento de softwares para facilitar o planejamento, o controle, a coordenação, a análise e o processo decisório em organizações. Meus interesses durante este período estão voltados a um melhor conhecimento sobre Inteligência Artifical e técnicas em análise de dados - Big Data
 
 ## Cursos Livres
 * * *
