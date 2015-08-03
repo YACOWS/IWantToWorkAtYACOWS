@@ -1,20 +1,54 @@
 # Vaga
-
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+###Senior Python  Programmer
 
 # CV
+## Resumo
+Programo a mais de 5 anos, comecei com PHP onde trabalhei em alguns projetos médios e ajudei em projetos diversos, ao longo
+do caminho naturalmente comecei a usar frameworks para ajudar no desenvolvimento de novos projetos, passei por SpaghettiPHP e CakePHP até conhecer e me apaixonar por Python/Django, hoje já utilizo Python/Django em 100% dos meus projetos e trabalho full-time com o mesmo. 
 
-[Preencha aqui o seu cv]
+##Skills
+*   SQL
+*   AWS (S3/SQS/SNS/OpsWork)
+*   Linux
+*   MySQL
+*   jQuery
+*   Django
+*   MongoDB
+*   NodeJS
+*   Shell Scripting
+*   HTML
+*   CSS
+*   Scrum
+*   Python
+*   GIT
+*   Tornado
+*   Flask
+*   Gunicorn
+*   PostgreSQL
+*   ElasticSearch
+*   TDD
 
 
-__Dicas:__
+##Experiência
+>Loja Integrada
+>> Programador Python/Django
 
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da YACOWS irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.md no projeto [IWantToWorkAtYACOWS] (http://github.com/YACOWS/IWantToWorkAtYACOWS), para ver o cheat-sheet
+>INTEC
+>> Programador Sênior PHP
+
+>Estratégia Publicidade
+>> Programador Junior PHP
+
+##Educação
+>IFF ( Instituto Federal Fluminense)
+>>Técnico , Eletrônica
+
+##Interesses
+
+Desenvolvimento de aplicações para web, data mining, crawlers, utilizando metodologias ágeis de desenvolvimento.
+
+##Idiomas
+Inglês Intermediário
+
+##Links
+*   [Linkedin](http://goo.gl/1pLF5c)	
