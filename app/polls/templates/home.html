@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Teste YACOWS</title>
+	</head>
+
+	<body>
+		
+		<h1>Enquetes</h1>
+		
+		{% for poll in polls %}
+			<p><a href="{% url polls.views.poll poll.id %}">{{ poll.question }}</a></p>
+		{% endfor %}
+		
+	</body>
+</html>

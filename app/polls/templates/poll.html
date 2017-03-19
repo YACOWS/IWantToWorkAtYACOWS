@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Teste YACOWS</title>
+	</head>
+
+	<body>
+		<h1>Enquetes</h1>
+
+    	<h2>{{ poll.question }}</h2>
+
+		{% if poll.total_votes != 0 %}
+    		<p>{{ poll.total_votes }} voto{{ poll.total_votes|pluralize }}</p>
+        {% else %}
+            <p>Nenhum voto encontrado</p>
+		{% endif %}
+
+    	<h3>Vote agora!</h3>
+
+		<form method="POST" action="">
+			{% csrf_token %}
+    		{{ form.as_p }}
+			<input type="submit" />
+		</form>
+		
+	</body>
+</html>

@@ -1,0 +1,4 @@
+django
+selenium
+mock
+unittest2
